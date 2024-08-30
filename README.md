@@ -6,11 +6,11 @@ Estou estudando na https://www.alura.com.br/
 
 Estou me desenvolvendo na linguagem JavaScript e também sou formando em C#
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+Você pode entrar em contato comigo por meio deste email 📫
 
-alurastartestudante@email.com
+davi.lima27@escola.pr.gov.br
 
 @alurastartestudante
 
